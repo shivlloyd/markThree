@@ -10,3 +10,9 @@ For now I know:
 5. CSS
 6. BootStrap
 7. Repl.it
+
+Projects I've showcased in here:
+
+1. markOne - A CLI quiz app on how well do you know me.
+
+2. markTwo - A CLI quiz app to check are you a fan of DC Universe.
